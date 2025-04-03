@@ -1,24 +1,3 @@
-<a name="br1"></a> 
-
-Object Oriented Programming
-
-**Lab Project**
-
-**Jan 12, 2023**
-
-**Submitted by:**
-
-Muhammad Hozefa Rauf
-
-FA21-BCS-057
-
-**Submitted to:**
-
-Ms Saneeha Amir
-
-
-
-<a name="br2"></a> 
 
 **Car Rental Management System**
 

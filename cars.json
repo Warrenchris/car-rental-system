@@ -1,0 +1,14 @@
+{
+    "KCN 123X": {
+        "model": "Toyota Vitz",
+        "available": true
+    },
+    "KDA 456Y": {
+        "model": "Mazda Demio",
+        "available": false
+    },
+    "KDE 789Z": {
+        "model": "Honda Fit",
+        "available": false
+    }
+}
